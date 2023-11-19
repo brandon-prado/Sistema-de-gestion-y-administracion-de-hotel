@@ -1,0 +1,607 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{00C8C16F-73C9-499F-9CE0-2F7D529C18C0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>IDEA_Software.My.MyApplication</StartupObject>
+    <RootNamespace>IDEA_Software</RootNamespace>
+    <AssemblyName>IDEA Central</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Brandon\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>22</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>IDEA Central.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>IDEA Central.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Text</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>400FC2F92397DAFB18B7F6B958A7D34470AD0B0B</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>IDEA Software_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>IDEA2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\oraclexe\app\oracle\product\11.2.0\server\odp.net\bin\4\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.18.3, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\oraclexe\app\oracle\product\11.2.0\server\odp.net\bin\4\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Classes\CargoExtra.vb" />
+    <Compile Include="Classes\CierreTurno.vb" />
+    <Compile Include="Classes\Cliente.vb" />
+    <Compile Include="Classes\Egreso.vb" />
+    <Compile Include="Classes\Folio.vb" />
+    <Compile Include="Classes\Habitacion.vb" />
+    <Compile Include="Classes\InicioSesion.vb" />
+    <Compile Include="Classes\InicioTurno.vb" />
+    <Compile Include="Classes\ListadoClientes.vb" />
+    <Compile Include="Classes\ListadoHabitacion.vb" />
+    <Compile Include="Classes\ListadoUsuarios.vb" />
+    <Compile Include="Classes\Genero.vb" />
+    <Compile Include="Classes\MetodoPago.vb" />
+    <Compile Include="Classes\Reservacion.vb" />
+    <Compile Include="Classes\ReservacionHasHabitacion.vb" />
+    <Compile Include="Classes\Rol.vb" />
+    <Compile Include="Classes\TipoHabitacion.vb" />
+    <Compile Include="Classes\Turno.vb" />
+    <Compile Include="Classes\Usuario.vb" />
+    <Compile Include="Forms\FrmAcercaDe.Designer.vb">
+      <DependentUpon>FrmAcercaDe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmAcercaDe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmAdministracionClientes.Designer.vb">
+      <DependentUpon>FrmAdministracionClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmAdministracionClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmAdministracionFolio.Designer.vb">
+      <DependentUpon>FrmAdministracionFolio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmAdministracionFolio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmAdministracionUsuarios.Designer.vb">
+      <DependentUpon>FrmAdministracionUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmAdministracionUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmAdministracionHabitaciones.Designer.vb">
+      <DependentUpon>FrmAdministracionHabitaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmAdministracionHabitaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmAutorizacion.Designer.vb">
+      <DependentUpon>FrmAutorizacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmAutorizacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmAviso.Designer.vb">
+      <DependentUpon>FrmAviso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmAviso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmCalendarioReservaciones.Designer.vb">
+      <DependentUpon>FrmCalendarioReservaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmCalendarioReservaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmCambio.Designer.vb">
+      <DependentUpon>FrmCambio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmCambio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmCantidadPagar.Designer.vb">
+      <DependentUpon>FrmCantidadPagar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmCantidadPagar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmCargando.Designer.vb">
+      <DependentUpon>FrmCargando.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmCargando.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmCargoExtra.Designer.vb">
+      <DependentUpon>FrmCargoExtra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmCargoExtra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmCerrarSesion.Designer.vb">
+      <DependentUpon>FrmCerrarSesion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmCerrarSesion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmCierreTurno.Designer.vb">
+      <DependentUpon>FrmCierreTurno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmCierreTurno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmCorrecto.Designer.vb">
+      <DependentUpon>FrmCorrecto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmCorrecto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmEgreso.Designer.vb">
+      <DependentUpon>FrmEgreso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmEgreso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmHabitacionesAsignadas.Designer.vb">
+      <DependentUpon>FrmHabitacionesAsignadas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmHabitacionesAsignadas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmInicioTurno.Designer.vb">
+      <DependentUpon>FrmInicioTurno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmInicioTurno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmListadoCobros.Designer.vb">
+      <DependentUpon>FrmListadoCobros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmListadoCobros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmListadoEgreso.Designer.vb">
+      <DependentUpon>FrmListadoEgreso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmListadoEgreso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmListadoFolio.Designer.vb">
+      <DependentUpon>FrmListadoFolio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmListadoFolio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmInicioSesión.Designer.vb">
+      <DependentUpon>FrmInicioSesión.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmInicioSesión.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmListadoClientes.Designer.vb">
+      <DependentUpon>FrmListadoClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmListadoClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmListadoHabitaciones.Designer.vb">
+      <DependentUpon>FrmListadoHabitaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmListadoHabitaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmListadoReservaciones.Designer.vb">
+      <DependentUpon>FrmListadoReservaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmListadoReservaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmListadoUsuarios.Designer.vb">
+      <DependentUpon>FrmListadoUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmListadoUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmMenuAdministracion.Designer.vb">
+      <DependentUpon>FrmMenuAdministracion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmMenuAdministracion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmMenuPrincipal.Designer.vb">
+      <DependentUpon>FrmMenuPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmMenuPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmMetodoPago.Designer.vb">
+      <DependentUpon>FrmMetodoPago.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmMetodoPago.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmNota.Designer.vb">
+      <DependentUpon>FrmNota.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmNota.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmPago.Designer.vb">
+      <DependentUpon>FrmPago.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmPago.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmPermiso.Designer.vb">
+      <DependentUpon>FrmPermiso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmPermiso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmRegistroCliente.Designer.vb">
+      <DependentUpon>FrmRegistroCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmRegistroCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmRegistroReservacion.Designer.vb">
+      <DependentUpon>FrmRegistroReservacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmRegistroReservacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmReportes.Designer.vb">
+      <DependentUpon>FrmReportes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmReportes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmRol.Designer.vb">
+      <DependentUpon>FrmRol.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmRol.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSalida.Designer.vb">
+      <DependentUpon>FrmSalida.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSalida.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\ModuloGlobal.vb" />
+    <Compile Include="Forms\FrmGenero.Designer.vb">
+      <DependentUpon>FrmGenero.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmGenero.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\Permiso.vb" />
+    <Compile Include="Forms\FrmSeleccionarCliente.Designer.vb">
+      <DependentUpon>FrmSeleccionarCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSeleccionarCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSeleccionarFolio.Designer.vb">
+      <DependentUpon>FrmSeleccionarFolio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSeleccionarFolio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmTipoHabitacion.Designer.vb">
+      <DependentUpon>FrmTipoHabitacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmTipoHabitacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmTurno.Designer.vb">
+      <DependentUpon>FrmTurno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmTurno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Classes\Oracle.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\FrmAcercaDe.resx">
+      <DependentUpon>FrmAcercaDe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmAdministracionClientes.resx">
+      <DependentUpon>FrmAdministracionClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmAdministracionFolio.resx">
+      <DependentUpon>FrmAdministracionFolio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmAdministracionUsuarios.resx">
+      <DependentUpon>FrmAdministracionUsuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmAdministracionHabitaciones.resx">
+      <DependentUpon>FrmAdministracionHabitaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmAutorizacion.resx">
+      <DependentUpon>FrmAutorizacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmAviso.resx">
+      <DependentUpon>FrmAviso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmCalendarioReservaciones.resx">
+      <DependentUpon>FrmCalendarioReservaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmCambio.resx">
+      <DependentUpon>FrmCambio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmCantidadPagar.resx">
+      <DependentUpon>FrmCantidadPagar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmCargando.resx">
+      <DependentUpon>FrmCargando.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmCargoExtra.resx">
+      <DependentUpon>FrmCargoExtra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmCerrarSesion.resx">
+      <DependentUpon>FrmCerrarSesion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmCierreTurno.resx">
+      <DependentUpon>FrmCierreTurno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmCorrecto.resx">
+      <DependentUpon>FrmCorrecto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmEgreso.resx">
+      <DependentUpon>FrmEgreso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmHabitacionesAsignadas.resx">
+      <DependentUpon>FrmHabitacionesAsignadas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmInicioTurno.resx">
+      <DependentUpon>FrmInicioTurno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmListadoCobros.resx">
+      <DependentUpon>FrmListadoCobros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmListadoEgreso.resx">
+      <DependentUpon>FrmListadoEgreso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmListadoFolio.resx">
+      <DependentUpon>FrmListadoFolio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmInicioSesión.resx">
+      <DependentUpon>FrmInicioSesión.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmListadoClientes.resx">
+      <DependentUpon>FrmListadoClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmListadoHabitaciones.resx">
+      <DependentUpon>FrmListadoHabitaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmListadoReservaciones.resx">
+      <DependentUpon>FrmListadoReservaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmListadoUsuarios.resx">
+      <DependentUpon>FrmListadoUsuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmMenuAdministracion.resx">
+      <DependentUpon>FrmMenuAdministracion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmMenuPrincipal.resx">
+      <DependentUpon>FrmMenuPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmMetodoPago.resx">
+      <DependentUpon>FrmMetodoPago.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmNota.resx">
+      <DependentUpon>FrmNota.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmPago.resx">
+      <DependentUpon>FrmPago.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmPermiso.resx">
+      <DependentUpon>FrmPermiso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmRegistroCliente.resx">
+      <DependentUpon>FrmRegistroCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmRegistroReservacion.resx">
+      <DependentUpon>FrmRegistroReservacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmReportes.resx">
+      <DependentUpon>FrmReportes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmRol.resx">
+      <DependentUpon>FrmRol.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSalida.resx">
+      <DependentUpon>FrmSalida.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmGenero.resx">
+      <DependentUpon>FrmGenero.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSeleccionarCliente.resx">
+      <DependentUpon>FrmSeleccionarCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSeleccionarFolio.resx">
+      <DependentUpon>FrmSeleccionarFolio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmTipoHabitacion.resx">
+      <DependentUpon>FrmTipoHabitacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmTurno.resx">
+      <DependentUpon>FrmTurno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IDEA Software_TemporaryKey.pfx" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8.1 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="resource\images\habitacion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\noCompleto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pagoParcial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\completo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dinero.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="IDEA ICO.ico" />
+    <Content Include="IDEA SOFTWARE-ICO.ico" />
+    <Content Include="IDEA2.ico" />
+    <None Include="Resources\logoFavela.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
