@@ -1,0 +1,203 @@
+C:\Users\Brandon\Documents\Ingeniería de Software\IDEA Software\IDEA Software\obj\Debug\IDEA Software.vbproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\Ingeniería de Software\IDEA Software\IDEA Software\obj\Debug\IDEA Software.vbproj.GenerateResource.cache
+C:\Users\Brandon\Documents\Ingeniería de Software\IDEA Software\IDEA Software\obj\Debug\IDEA Software.vbproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Ingeniería de Software\IDEA Software\IDEA Software\bin\Debug\IDEA Software.exe.config
+C:\Users\Brandon\Documents\Ingeniería de Software\IDEA Software\IDEA Software\bin\Debug\IDEA Software.exe
+C:\Users\Brandon\Documents\Ingeniería de Software\IDEA Software\IDEA Software\bin\Debug\IDEA Software.pdb
+C:\Users\Brandon\Documents\Ingeniería de Software\IDEA Software\IDEA Software\bin\Debug\IDEA Software.xml
+C:\Users\Brandon\Documents\Ingeniería de Software\IDEA Software\IDEA Software\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Brandon\Documents\Ingeniería de Software\IDEA Software\IDEA Software\obj\Debug\IDEA Software.vbproj.CopyComplete
+C:\Users\Brandon\Documents\Ingeniería de Software\IDEA Software\IDEA Software\obj\Debug\IDEA Software.exe
+C:\Users\Brandon\Documents\Ingeniería de Software\IDEA Software\IDEA Software\obj\Debug\IDEA Software.xml
+C:\Users\Brandon\Documents\Ingeniería de Software\IDEA Software\IDEA Software\obj\Debug\IDEA Software.pdb
+C:\Users\Brandon\Documents\Ingeniería de Software\IDEA Software\IDEA Software\obj\Debug\IDEA_Software.Resources.resources
+C:\Users\Brandon\Documents\Ingeniería de Software\IDEA Software\IDEA Software\obj\Debug\IDEA_Software.FrmInicioSesión.resources
+C:\Users\Brandon\Documents\Ingeniería de Software\IDEA Software\IDEA Software\obj\Debug\IDEA_Software.FrmMenuPrincipal.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\bin\Debug\Oracle.DataAccess.dll
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmInicioSesión.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmMenuPrincipal.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.Resources.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA Software.vbproj.GenerateResource.cache
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA Software.vbproj.CoreCompileInputs.cache
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA Software.vbproj.CopyComplete
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmMenuAdministracion.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmListadoUsuarios.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmAdministracionUsuarios.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmCargando.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmSalida.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmCerrarSesion.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmAviso.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmGenero.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmCorrecto.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmPermiso.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmRol.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmListadoClientes.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmAdministracionClientes.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmRegistroCliente.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmMetodoPago.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmTurno.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmRegistroReservacion.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmSeleccionarCliente.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmNota.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmAdministrarHabitacion.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmTipoHabitacion.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmAutorizacion.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmListadoReservaciones.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmCargoExtra.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmSeleccionarFolio.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmListadoHabitaciones.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmListadoFolio.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmHabitacionesAsignadas.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmAdministracionFolio.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmInicioTurno.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmCierreTurno.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmCalendarioReservaciones.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\bin\Debug\BouncyCastle.Crypto.dll
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\bin\Debug\itextsharp.dll
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\bin\Debug\itextsharp.xml
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmReportes.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmEgreso.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmListadoEgreso.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmPago.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmCantidadPagar.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmAcercaDe.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmCambio.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA_Software.FrmListadoCobros.resources
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\bin\Debug\IDEA Central.exe.config
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\bin\Debug\IDEA Central.exe.manifest
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\bin\Debug\IDEA Central.application
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\bin\Debug\IDEA Central.exe
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\bin\Debug\IDEA Central.pdb
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\bin\Debug\IDEA Central.xml
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA Central.exe.manifest
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA Central.application
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA Central.exe
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA Central.xml
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA Central.pdb
+D:\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\Proyecto\IDEA Software\obj\Debug\IDEA Software.vbproj.AssemblyReference.cache
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\IDEA Central.exe.config
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\IDEA Central.exe.manifest
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\IDEA Central.application
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\IDEA Central.exe
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\IDEA Central.pdb
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\IDEA Central.xml
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\itextsharp.dll
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\Oracle.DataAccess.dll
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\itextsharp.xml
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Software.vbproj.AssemblyReference.cache
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Software.vbproj.SuggestedBindingRedirects.cache
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmAcercaDe.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmAdministracionClientes.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmAdministracionFolio.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmAdministracionUsuarios.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmAdministrarHabitacion.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmAutorizacion.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmAviso.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmCalendarioReservaciones.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmCambio.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmCantidadPagar.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmCargando.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmCargoExtra.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmCerrarSesion.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmCierreTurno.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmCorrecto.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmEgreso.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmHabitacionesAsignadas.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmInicioTurno.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmListadoCobros.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmListadoEgreso.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmListadoFolio.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmInicioSesión.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmListadoClientes.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmListadoHabitaciones.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmListadoReservaciones.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmListadoUsuarios.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmMenuAdministracion.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmMenuPrincipal.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmMetodoPago.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmNota.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmPago.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmPermiso.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmRegistroCliente.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmRegistroReservacion.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmReportes.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmRol.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmSalida.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmGenero.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmSeleccionarCliente.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmSeleccionarFolio.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmTipoHabitacion.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmTurno.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.Resources.resources
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Software.vbproj.GenerateResource.cache
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Software.vbproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Central.exe.manifest
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Central.application
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Software.vbproj.CopyComplete
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Central.exe
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Central.xml
+C:\Users\mario\OneDrive\Escritorio\AAAA-IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Central.pdb
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\IDEA Central.exe.config
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\IDEA Central.exe.manifest
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\IDEA Central.application
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\IDEA Central.exe
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\IDEA Central.pdb
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\IDEA Central.xml
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\itextsharp.dll
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\bin\Debug\itextsharp.xml
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Software.vbproj.AssemblyReference.cache
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Software.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmAcercaDe.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmAdministracionClientes.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmAdministracionFolio.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmAdministracionUsuarios.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmAdministrarHabitacion.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmAutorizacion.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmAviso.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmCalendarioReservaciones.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmCambio.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmCantidadPagar.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmCargando.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmCargoExtra.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmCerrarSesion.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmCierreTurno.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmCorrecto.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmEgreso.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmHabitacionesAsignadas.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmInicioTurno.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmListadoCobros.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmListadoEgreso.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmListadoFolio.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmInicioSesión.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmListadoClientes.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmListadoHabitaciones.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmListadoReservaciones.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmListadoUsuarios.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmMenuAdministracion.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmMenuPrincipal.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmMetodoPago.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmNota.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmPago.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmPermiso.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmRegistroCliente.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmRegistroReservacion.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmReportes.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmRol.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmSalida.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmGenero.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmSeleccionarCliente.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmSeleccionarFolio.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmTipoHabitacion.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.FrmTurno.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA_Software.Resources.resources
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Software.vbproj.GenerateResource.cache
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Software.vbproj.CoreCompileInputs.cache
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Central.exe.manifest
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Central.application
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Software.vbproj.CopyComplete
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Central.exe
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Central.xml
+C:\Users\Brandon\OneDrive - Tecnologico Nacional de Mexico Campus Saltillo\TecNM - Campus Saltillo\7mo Semestre\Ingeniería de Software\IDEA SOFTWARE FINAL\IDEA Software\obj\Debug\IDEA Central.pdb
